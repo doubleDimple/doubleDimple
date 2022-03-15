@@ -12,8 +12,8 @@ Currently active in the seata community
 ![doubleDimple's GitHub stats](https://github-readme-stats.vercel.app/api?username=doubleDimple&show_icons=true&theme=tokyonight)
 
 
-- 📫 email：[lovele.cn@gmail.com](mailto:lovele.cn@gmail.com)
-- 📝 blog： [lovele.cn](https://lovele.cn)
+- 📫 email：  [lovele.cn@gmail.com](mailto:lovele.cn@gmail.com)
+- 📝 blogger：[lovele.cn](https://lovele.cn)
 
 **My open source project, is working hard to improve:**
 
