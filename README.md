@@ -8,12 +8,11 @@ I am renyuanxin，a java software developer，Like watching movies, games LOL, b
 Currently active in the seata community
 
 
-
 ![doubleDimple's GitHub stats](https://github-readme-stats.vercel.app/api?username=doubleDimple&show_icons=true&theme=tokyonight)
-
-📫 email：  [lovele.cn@gmail.com](mailto:lovele.cn@gmail.com) 📝 blogger：[lovele.cn](https://lovele.cn)
 
 **My open source project, is working hard to improve:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doubleDimple&repo=spring-demo)](https://github.com/doubleDimple/spring-demo)
+
+📫 email：[lovele.cn@gmail.com](mailto:lovele.cn@gmail.com) 📝 blogger：[lovele.cn](https://lovele.cn)
 
