@@ -10,7 +10,7 @@ Currently active in the seata community
 
 
 - 📫 email：[lovele.cn@gmail.com](mailto:lovele.cn@gmail.com)
-- 📝 blog[lovele.cn](https://lovele.cn)
+- 📝 blog：[lovele.cn](https://lovele.cn)
 
 **My open source project, is working hard to improve:**
 
