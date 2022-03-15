@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am renyuanxin，a java software developer，Like watching movies, games LOL, basketball, Like continuous learning, help me grow myself, like open source, if you and I have the same hobbies, we can communicate with each otherCurrently active in the seata community
+I am renyuanxin，a java software developer，Like watching movies, games LOL, basketball, Like continuous learning, help me grow myself, like open source, if you and I have the same hobbies, we can communicate with each other.
+
+Currently active in the seata community
+
 
 
 ![doubleDimple's GitHub stats](https://github-readme-stats.vercel.app/api?username=doubleDimple&show_icons=true&theme=tokyonight)
