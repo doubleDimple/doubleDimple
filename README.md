@@ -12,5 +12,5 @@ Currently active in the seata community
 
 **My open source project, is working hard to improve:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doubleDimple&repo=spring-demo)](https://github.com/doubleDimple/spring-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doubleDimple&repo=doubleDimple-spring-demo)](https://github.com/doubleDimple/doubleDimple-spring-demo)
 
