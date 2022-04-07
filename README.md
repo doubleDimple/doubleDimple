@@ -4,17 +4,14 @@ I am renyuanxin，a java software developer，we can communicate with each other
 
 email：[lovele.cn@gmail.com](mailto:lovele.cn@gmail.com) blogger：[lovele.cn](https://lovele.cn) 
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/doubleDimple)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/doubleDimple)
 <img src="https://komarev.com/ghpvc/?username=doubleDimple&label=Profile%20views&color=0e75b6&style=plastic" alt="doubleDimple" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doubleDimple&theme=gruvbox" alt="doubleDimple" /></a> </p>
 
-Currently active in the seata community
-
-
 ![doubleDimple's GitHub stats](https://github-readme-stats.vercel.app/api?username=doubleDimple&show_icons=true&theme=tokyonight)
 
-**My open source project, is working hard to improve:**
+<h3 align="left">My open source project, is working hard to improve:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doubleDimple&repo=doubleDimple-spring-demo)](https://github.com/doubleDimple/doubleDimple-spring-demo)
 
