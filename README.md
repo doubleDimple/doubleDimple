@@ -8,6 +8,7 @@ email：[lovele.cn@gmail.com](mailto:lovele.cn@gmail.com) blogger：[lovele.cn](
 <img src="https://komarev.com/ghpvc/?username=doubleDimple&label=Profile%20views&color=0e75b6&style=plastic" alt="doubleDimple" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doubleDimple&theme=gruvbox" alt="doubleDimple" /></a> </p>
+
 ![doubleDimple's GitHub stats](https://github-readme-stats.vercel.app/api?username=doubleDimple&show_icons=true&theme=tokyonight)
 
 <h3 align="left">My open source project, is working hard to improve:</h3>
