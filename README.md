@@ -1,29 +1,57 @@
-### Hi there 👋
-:smiley::smiley::smiley:
-I am a java software developer，we can communicate with each other
-email：[lovele.cn@gmail.com](mailto:lovele.cn@gmail.com)
+<!-- 个人主页标题 -->
+<h1 align="center">
+  🚀 Hey there, I'm <a href="https://github.com/doubleDimple" target="_blank">doubleDimple</a> 👋
+</h1>
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&color=0e75b6&style=plastic)](https://github.com/doubleDimple)
-<img src="https://komarev.com/ghpvc/?username=doubleDimple&label=Profile%20views&color=0e75b6&style=plastic" alt="doubleDimple" />
+<!-- 动态打字效果 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Java+Developer;Spring+Boot+%26+Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doubleDimple&theme=gruvbox" alt="doubleDimple" /></a> </p>
+---
 
-![doubleDimple's GitHub stats](https://github-readme-stats.vercel.app/api?username=doubleDimple&show_icons=true&theme=tokyonight)
+### 😄 About Me
+- 💻 I am a **Java software developer**  
+- 🌏 Love sharing tech with the community  
+- 📧 Email: **[lovele.cn@gmail.com](mailto:lovele.cn@gmail.com)**  
+- 🛠 Currently building and improving **my open source projects**  
 
-<h3 align="left">My open source project, is working hard to improve:</h3>
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doubleDimple&repo=doubleDimple-spring-demo)](https://github.com/doubleDimple/doubleDimple-spring-demo)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://ignite.apache.org/" target="_blank"> <img src="https://ignite.apache.org/img/logo.svg" alt="ignite" width="80" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgreSql" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<div id="badges"  align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=doubleDimple&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
-
+### 📊 GitHub Stats
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=doubleDimple&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubleDimple&layout=compact&theme=tokyonight" />
 </div>
 
+---
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=doubleDimple&theme=radical&margin-w=15&margin-h=15&row=2&column=4" />
+</p>
+
+---
+
+### 🚀 Featured Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doubleDimple&repo=doubleDimple-spring-demo&theme=tokyonight)](https://github.com/doubleDimple/doubleDimple-spring-demo)
+
+---
+
+### ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,redis,docker,linux,git,jenkins,elasticsearch" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doubleDimple&bg_color=0f2027&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=doubleDimple&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
